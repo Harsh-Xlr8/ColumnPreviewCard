@@ -24,8 +24,7 @@ Users should be able to:
 ![Project Screenshot2](./screenshots/Screenshot%202024-08-02%20at%202.50.59%20PM.png)
 
 ## Links
-- [Solution URL](#)
-- [Live Site URL](#)
+- [Live Site URL](https://columnspreview.netlify.app/)
 
 ## My Process
 ### Built With
